@@ -1,7 +1,6 @@
 {
   "name": "esm",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "serve": "live-server",
@@ -11,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "live-server": "^1.2.2"
-  }
+  },
+  "description": ""
 }
